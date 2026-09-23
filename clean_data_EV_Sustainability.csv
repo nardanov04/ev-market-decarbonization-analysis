@@ -1,0 +1,201 @@
+Car Model,Efficiency (Wh/km),Range (km),Battery (kWh),Price (GBP),Availability
+Tesla Model 3 RWD,133.0,450.0,60.0,37990.0,Available
+MG MG4 Electric 64 kWh,171.0,360.0,61.7,29745.0,Discontinued
+BMW iX xDrive40,197.0,360.0,71.0,69905.0,Discontinued
+CUPRA Born 150 kW - 58 kWh,166.0,350.0,58.0,34125.0,Discontinued
+Fiat 500e Hatchback 42 kWh,159.0,235.0,37.3,20245.0,Available
+XPENG L03 RWD Long Range,165.0,420.0,69.5,,Available
+CUPRA Born 170 kW - 77 kWh,171.0,450.0,77.0,39625.0,Discontinued
+BMW i3 50 xDrive,152.0,715.0,108.7,53005.0,Available
+BMW iX3 50 xDrive,169.0,645.0,108.7,58755.0,Available
+Mercedes-Benz CLA 250+,145.0,585.0,85.0,43250.0,Available
+Kia EV3 Long Range,171.0,455.0,78.0,34555.0,Available
+Volkswagen ID. Polo 155 kW - 52 kWh,154.0,335.0,51.7,26830.0,Available
+Leapmotor B05 67.1 kWh,171.0,380.0,65.0,30495.0,Available
+Tesla Model 3 Premium RWD,136.0,580.0,79.0,44990.0,Available
+Tesla Model Y RWD,158.0,380.0,60.0,41990.0,Discontinued
+Tesla Model Y Long Range AWD,169.0,445.0,75.0,51990.0,Discontinued
+Hyundai IONIQ 3 61 kWh,155.0,375.0,58.0,25745.0,Available
+Skoda Epiq 55,162.0,320.0,51.7,26200.0,Available
+Volvo EX60 P12 AWD,184.0,610.0,112.0,64860.0,Available
+BYD ATTO 2 64.8 kWh,191.0,340.0,64.8,34975.0,Available
+Tesla Model Y Premium AWD,165.0,480.0,79.0,51990.0,Discontinued
+Mercedes-Benz GLC 400 4MATIC,176.0,535.0,94.0,60350.0,Available
+BMW iX5 60 xDrive,210.0,670.0,141.0,95000.0,
+Kia Niro EV,168.0,385.0,64.8,37295.0,Discontinued
+Leapmotor B10 67.1 kWh,181.0,360.0,65.0,31495.0,Available
+Hyundai IONIQ 5 84 kWh RWD,178.0,450.0,80.0,43400.0,Available
+BYD SEALION 7 91.3 kWh AWD Excellence,208.0,440.0,91.3,58990.0,Available
+Zeekr 7GT Long Range RWD,175.0,555.0,97.0,,Available
+Toyota C-HR+ 77 kWh,167.0,430.0,72.0,35495.0,Available
+Renault 5 E-Tech 52kWh 150hp,155.0,335.0,52.0,23945.0,Available
+Tesla Model 3 Long Range AWD,155.0,485.0,75.0,50990.0,Discontinued
+Tesla Model Y Long Range AWD,165.0,455.0,75.0,51990.0,Discontinued
+Tesla Model 3 Long Range RWD,136.0,550.0,75.0,44990.0,Discontinued
+Leapmotor B03X 53.0 kWh,173.0,300.0,52.0,,Available
+Renault Twingo E-Tech 27.5 kWh,149.0,185.0,27.5,18000.0,Available
+XPENG G6 RWD Long Range,178.0,450.0,80.0,44990.0,Available
+BMW iX3 40,162.0,510.0,82.6,53250.0,Available
+Tesla Model Y Premium RWD,159.0,465.0,74.0,48990.0,Available
+Dongfeng Box 42.3 kWh,157.0,255.0,40.0,,Available
+Tesla Model 3 RWD,130.0,460.0,60.0,,Available
+Mazda CX-6e 78 kWh,183.0,420.0,77.0,42990.0,Available
+Skoda Peaq 90,172.0,500.0,86.0,51980.0,Available
+Kia PV5 Passenger 71.2 kWh,197.0,340.0,67.0,34695.0,Available
+Renault Megane E-Tech EV60 220hp,158.0,380.0,60.0,37995.0,Discontinued
+Mercedes-Benz C 400 4MATIC,169.0,555.0,94.0,57995.0,Available
+Jaecoo 5 EV,181.0,325.0,58.9,27505.0,Available
+Volvo EX30 Single Motor ER,178.0,365.0,65.0,37260.0,Discontinued
+Tesla Model Y RWD,165.0,345.0,57.0,44990.0,Discontinued
+Kia EV4 Hatchback 81.4 kWh,154.0,505.0,78.0,33245.0,Available
+Citroen e-C3 Standard Range 44 kWh,172.0,255.0,43.8,22295.0,Available
+Hyundai INSTER Long Range,153.0,300.0,46.0,24545.0,Available
+Tesla Model Y Premium AWD,166.0,475.0,79.0,51990.0,Available
+Leapmotor T03,160.0,225.0,36.0,14495.0,Available
+BMW i4 eDrive40,157.0,515.0,80.7,57890.0,Discontinued
+Audi A2 e-tron 170 kW - 79 kWh,156.0,505.0,79.0,41000.0,Available
+Skoda Enyaq iV 80,175.0,440.0,77.0,42925.0,Discontinued
+BYD DOLPHIN SURF 43.2 kWh Comfort,163.0,265.0,43.2,23950.0,Available
+BYD ATTO 3 Evo RWD Design,185.0,405.0,74.8,38990.0,Available
+Volkswagen e-Golf,168.0,190.0,32.0,28075.0,Discontinued
+Tesla Model Y Performance,172.0,460.0,79.0,61990.0,Available
+Hyundai Kona Electric 65 kWh,168.0,390.0,65.4,31250.0,Available
+Lucid Air Grand Touring,163.0,720.0,117.0,,Available
+Volkswagen ID.3 Neo 170 kW - 79 kWh,161.0,490.0,79.0,35495.0,Available
+Renault Zoe ZE50 R110,165.0,315.0,52.0,29095.0,Discontinued
+Hyundai IONIQ 6 84 kWh RWD,147.0,545.0,80.0,,Available
+Audi e-tron 55 quattro,237.0,365.0,86.5,72935.0,Discontinued
+Zeekr 7X Long Range RWD,192.0,505.0,97.0,,Available
+MG MGS5 EV 64 kWh,170.0,365.0,62.1,31245.0,Available
+Kia EV2 61 kWh,171.0,340.0,58.0,24245.0,Available
+Mercedes-Benz EQB 250+,170.0,415.0,70.5,52800.0,Discontinued
+Mercedes-Benz GLB 250+,179.0,475.0,85.0,46100.0,Available
+Kia EV5 81.4 kWh,190.0,410.0,78.0,39345.0,Available
+Tesla Model S Plaid,170.0,560.0,95.0,100000.0,Discontinued
+Renault Scenic E-Tech EV87 220hp,181.0,480.0,87.0,33245.0,Available
+Changan Deepal S05 RWD,177.0,385.0,68.0,37990.0,Available
+Tesla Model Y Performance,174.0,430.0,75.0,59990.0,Discontinued
+Kia EV6 Long Range AWD,182.0,440.0,80.0,52135.0,Available
+Nissan LEAF Extended Range 75 kWh,165.0,455.0,75.1,32249.0,Available
+Skoda Elroq 60,168.0,345.0,58.0,32470.0,Available
+Mercedes-Benz GLA 250+,170.0,500.0,85.0,45400.0,Available
+BYD SEAL 82.5 kWh AWD Excellence,185.0,445.0,82.5,48695.0,Discontinued
+MG MG4 Urban Comfort Long Range,165.0,320.0,52.8,25495.0,Available
+Volvo EX60 P10 AWD,182.0,500.0,91.0,59860.0,Available
+Tesla Model Y RWD,160.0,375.0,60.0,44990.0,Discontinued
+Geely E2 47 kWh,168.0,280.0,47.1,23490.0,Available
+Tesla Model 3 Standard Range Plus,153.0,320.0,49.0,40490.0,Discontinued
+Tesla Model Y RWD,158.0,380.0,60.0,41990.0,Available
+Hyundai Kona Electric 64 kWh,164.0,390.0,64.0,37750.0,Discontinued
+Skoda Enyaq 85,167.0,460.0,77.0,40560.0,Available
+BMW iX3,192.0,385.0,74.0,64165.0,Discontinued
+Dacia Spring Electric 80,157.0,175.0,27.5,,
+GAC AION UT 60 kWh,182.0,330.0,60.0,28950.0,
+CUPRA Raval 155 kW - 52 kWh,157.0,330.0,51.7,28495.0,Available
+Mazda 6e 78 kWh,164.0,470.0,77.0,38995.0,Available
+Tesla Model 3 RWD,143.0,400.0,57.0,42990.0,Discontinued
+BYD ATTO 3,183.0,330.0,60.5,37195.0,Discontinued
+Tesla Model 3 Premium AWD,142.0,555.0,79.0,49990.0,Available
+Hyundai IONIQ 5 N,205.0,390.0,80.0,65000.0,Available
+Toyota bZ4X Touring AWD 74.7 kWh,184.0,385.0,71.0,51695.0,Available
+BYD DOLPHIN 60.4 kWh,173.0,350.0,60.5,30205.0,Available
+BYD SEAL U 87 kWh Design,205.0,425.0,87.0,,Available
+BMW iX1 xDrive30,170.0,380.0,64.7,47465.0,Discontinued
+Mercedes-Benz CLA Shooting Brake 250+,149.0,570.0,85.0,44250.0,Available
+Mercedes-Benz EQC 400 4MATIC,216.0,370.0,80.0,74330.0,Discontinued
+TOGG T10X Long Range RWD,195.0,435.0,85.0,,Available
+KGM Torres EVX 80.6 kWh,197.0,410.0,80.6,,Available
+Hyundai IONIQ Electric,153.0,250.0,38.3,32050.0,Discontinued
+Tesla Model 3 Performance,153.0,490.0,75.0,59990.0,Discontinued
+BMW iX1 eDrive20,163.0,400.0,65.2,33315.0,Available
+Mercedes-Benz EQS 450+,169.0,720.0,122.0,104540.0,Available
+Skoda Elroq 85,171.0,450.0,77.0,35560.0,Available
+Omoda E5,178.0,330.0,58.9,33055.0,Available
+XPENG P7+ RWD Long Range,163.0,460.0,74.9,,Available
+MG ZS EV Long Range,185.0,370.0,68.3,32995.0,Discontinued
+Kia EV2 42.2 kWh,171.0,240.0,41.0,26995.0,Available
+Kia e-Niro 64 kWh,171.0,375.0,64.0,34995.0,Discontinued
+Dacia Spring Electric 70,145.0,165.0,24.0,11990.0,Available
+Nissan LEAF 40 kWh,166.0,235.0,39.0,28290.0,Discontinued
+Volkswagen ID.4 Pro,173.0,445.0,77.0,46035.0,Discontinued
+Fiat Grande Panda,168.0,260.0,43.8,20995.0,Available
+Tesla Model 3 Long Range AWD,155.0,490.0,76.0,,Discontinued
+Volkswagen ID.7 86 kWh,164.0,525.0,86.0,54930.0,Available
+Volkswagen ID. Polo 85 kW - 37 kWh,153.0,245.0,37.5,23945.0,Available
+Kia EV3 Standard Range,169.0,325.0,55.0,31555.0,Available
+Mercedes-Benz EQS 450+,172.0,685.0,118.0,112620.0,Discontinued
+Changan Deepal S07 Standard,190.0,410.0,78.0,39990.0,Available
+Hyundai IONIQ 5 84 kWh AWD,180.0,445.0,80.0,50900.0,Available
+Citroen e-C3 Aircross Extended Range 54 kWh,184.0,290.0,53.5,23495.0,Available
+Tesla Model 3 Standard Range Plus,146.0,350.0,51.0,40990.0,Discontinued
+BMW i3 120 Ah,161.0,235.0,37.9,33805.0,Discontinued
+Mazda 6e 68.8 kWh,162.0,420.0,68.0,,Discontinued
+BMW i4 eDrive40,155.0,525.0,81.3,59465.0,Available
+Audi A2 e-tron 140 kW - 58 kWh,155.0,375.0,58.0,35500.0,Available
+TOGG T10F Long Range RWD,173.0,490.0,85.0,,Available
+XPENG G9 RWD Long Range,188.0,490.0,92.2,,Available
+Tesla Model 3 Long Range AWD,162.0,455.0,73.5,46990.0,Discontinued
+Tesla Model Y Long Range AWD,169.0,425.0,72.0,,Discontinued
+BMW iX xDrive50,208.0,505.0,105.2,102755.0,Discontinued
+Mercedes-Benz VLE 400 4MATIC,228.0,505.0,115.0,,Available
+Tesla Model 3 Performance,153.0,515.0,79.0,59990.0,Available
+BYD SEALION 7 82.5 kWh RWD Comfort,196.0,420.0,82.5,46990.0,Available
+Toyota bZ4X AWD 73.1 kWh,184.0,375.0,69.0,52510.0,Available
+Hyundai Kona Electric 64 kWh,164.0,390.0,64.0,39150.0,Discontinued
+Opel Frontera Electric 54 kWh,184.0,290.0,53.5,25995.0,Available
+Tesla Model Y Long Range RWD,165.0,455.0,75.0,46990.0,Discontinued
+Skoda Elroq 85,171.0,450.0,77.0,35560.0,Discontinued
+Renault 4 E-Tech 52kWh 150hp,165.0,315.0,52.0,23445.0,Available
+BYD TANG Flagship,237.0,460.0,108.8,,Available
+BYD ATTO 3 Evo AWD Excellence,192.0,390.0,74.8,42730.0,Available
+Skoda Peaq 90x,176.0,490.0,86.0,57230.0,Available
+Tesla Model 3 Performance,162.0,470.0,76.0,59990.0,Discontinued
+Volkswagen ID.4 Pro,172.0,460.0,79.0,35495.0,Available
+Tesla Model 3 Long Range AWD,143.0,525.0,75.0,49990.0,Discontinued
+XPENG L03 AWD Performance,178.0,390.0,69.5,,Available
+Peugeot e-2008 54 kWh,169.0,300.0,50.8,33900.0,Available
+BYD ATTO 3,178.0,340.0,60.5,37730.0,Discontinued
+Volvo EX30 P5 Long Range,178.0,365.0,65.0,37260.0,Available
+Leapmotor C10 AWD 81.9 kWh,216.0,380.0,81.9,,Available
+BYD SEALION 7 82.5 kWh AWD Design,204.0,405.0,82.5,51990.0,Available
+MG MG4 Urban Standard Range,164.0,255.0,41.9,23495.0,Available
+Volkswagen ID.4 Pro Performance,188.0,410.0,77.0,46035.0,Discontinued
+MG MG5 Electric Long Range,171.0,335.0,57.4,30995.0,Discontinued
+Renault Megane E-Tech EV60 220hp,158.0,380.0,60.0,31295.0,Available
+Volvo EX40 P5 Long Range,198.0,400.0,79.0,,Available
+Mini Cooper SE,161.0,180.0,28.9,32550.0,Discontinued
+Mercedes-Benz G 580,294.0,395.0,116.0,180860.0,Available
+Skoda Enyaq 85,169.0,455.0,77.0,40560.0,Discontinued
+GAC AION V 75 kWh,179.0,420.0,75.3,36450.0,Available
+Peugeot e-3008 73 kWh,192.0,380.0,73.0,45960.0,Available
+BMW i4 M50,179.0,450.0,80.7,71085.0,Discontinued
+Tesla Model Y Premium RWD,160.0,470.0,75.0,48990.0,Discontinued
+Volkswagen ID.3 Neo 140 kW - 58 kWh,159.0,365.0,58.0,33995.0,Available
+Geely E2 35 kWh,164.0,215.0,35.4,20990.0,Available
+Audi Q8 SUV e-tron 55 quattro,210.0,505.0,106.0,80715.0,Discontinued
+Kia EV9 99.8 kWh AWD,221.0,435.0,96.0,,Available
+Tesla Model Y Long Range RWD,160.0,470.0,75.0,48990.0,Discontinued
+Mini Cooper SE,149.0,330.0,49.2,29105.0,Available
+Skoda Elroq 60,169.0,350.0,59.0,32470.0,Discontinued
+Zeekr 7GT Privilege AWD,183.0,530.0,97.0,,Available
+Peugeot e-3008 97 kWh Long Range,194.0,500.0,96.9,48660.0,Available
+Mercedes-Benz CLA 350 4MATIC,148.0,575.0,85.0,51800.0,Available
+Renault 5 E-Tech 52kWh 150hp,151.0,345.0,52.0,,Available
+MG MG4 Electric 51 kWh,169.0,300.0,50.8,27245.0,Discontinued
+firefly firefly,172.0,240.0,41.2,,Available
+Volkswagen ID. Cross 155 kW - 52 kWh,164.0,315.0,51.7,34000.0,Available
+Leapmotor B05 56.2 kWh,172.0,320.0,55.0,,Available
+Subaru E-Outback AWD,192.0,370.0,71.0,,Available
+Mercedes-Benz VLE 300,221.0,520.0,115.0,,Available
+Nissan Ariya 87kWh,193.0,450.0,87.0,35500.0,Discontinued
+Hyundai IONIQ 3 42.2 kWh,155.0,265.0,41.0,22245.0,Available
+Hyundai IONIQ Electric,147.0,190.0,28.0,27250.0,Discontinued
+Tesla Model 3 Long Range AWD,155.0,465.0,72.0,49990.0,Discontinued
+MG IM5 Long Range,182.0,530.0,96.5,44995.0,Available
+Lynk&Co 02,175.0,355.0,62.0,,Available
+Honda Super-N,151.0,185.0,28.0,18995.0,Available
+Audi A6 Avant e-tron performance,165.0,575.0,94.9,71740.0,Available
+XPENG G6 AWD Performance,182.0,440.0,80.0,49990.0,Available
+Audi Q4 e-tron 45,183.0,420.0,77.0,51360.0,Discontinued
+Zeekr 7GT Core RWD,168.0,435.0,73.0,,Available
+Porsche Cayenne Electric,208.0,520.0,108.0,83200.0,Available
