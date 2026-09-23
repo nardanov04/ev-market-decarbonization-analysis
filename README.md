@@ -29,21 +29,36 @@ As a sustainability-focused analyst, I wanted to move beyond spec-sheet comparis
 
 ## Key Findings
 
-Note: lower Wh/km indicates higher efficiency, meaning the vehicle uses less energy per kilometer traveled.
+Note: lower Wh/km indicates higher efficiency, meaning the vehicle uses less energy per kilometer traveled. All findings below are based on 200 EV models.
 
-- **No price penalty for efficiency, if anything, the opposite.** Average efficiency gets *worse* as price increases, from 163 Wh/km in the Budget tier up to 211 Wh/km in Luxury. Budget EVs are the most efficient segment, not the least.
-- **Tesla leads on efficiency without being a budget brand.** Tesla ranks 4th out of all brands on average efficiency (156 Wh/km) and dominates the range-per-kWh ranking, taking 7 of the top 10 spots, evidence of deliberate engineering, not just smaller or cheaper vehicles.
-- **Luxury brands are absent from the top efficiency rankings entirely**, reinforcing that higher price doesn't signal more advanced or more sustainable technology in this market.
+### No Price Penalty for Efficiency, If Anything, the Opposite
+
+![Average efficiency by price tier](images/price_tier_efficiency.png)
+
+Average efficiency gets *worse* as price increases, from 163 Wh/km in the Budget tier up to 211 Wh/km in Luxury. Budget EVs are the most efficient segment, not the least.
+
+### Tesla Leads on Efficiency Without Being a Budget Brand
+
+![Top 10 most efficient brands](images/brand_efficiency.png)
+
+Tesla ranks 4th out of all brands on average efficiency (156 Wh/km), ahead of most competitors despite not being a budget manufacturer. Luxury-oriented brands are absent from the top 10 entirely.
+
+### Battery Size Alone Doesn't Predict Range
+
+![Top 10 models by range per kWh](images/range_per_kwh.png)
+
+Across the dataset, a bigger battery doesn't reliably translate to more range per kWh, several models with smaller batteries achieve a better ratio than larger-battery competitors. Tesla Model 3 variants take 7 of the top 10 spots on this measure, indicating engineering efficiency rather than simply installing a bigger battery.
 
 This challenges a common assumption that premium innovation trickles down to make clean transport more accessible over time. Instead, the data suggests genuine decarbonization progress is currently led by manufacturers designing for efficiency from the ground up, often in accessible segments, rather than by luxury models setting the pace. For a market still working toward making clean transport genuinely accessible, the more useful question may not be "how do we make efficient EVs cheaper," but "why aren't more manufacturers building as efficiently as the segment leaders already are."
 
-Each finding is visualized with a chart in the notebook, and all three are demonstrated twice in this project: once in Pandas (notebook) and once in pure SQL (`ev_market_decarbonization_analysis_load.sql`), to show the same analytical questions can be answered at either the application layer or the database layer.
+All three findings are demonstrated twice in this project: once in Pandas (notebook, with the charts above) and once in pure SQL (`ev_market_decarbonization_analysis_load.sql`), to show the same analytical questions can be answered at either the application layer or the database layer.
 
 ## Repository Structure
 - `ev_market_decarbonization_analysis_extract_transform.ipynb`: Extract, Transform, and Key Findings (Pandas)
 - `ev_market_decarbonization_analysis_load.sql`: Load and Exploratory Queries (SQL)
 - `raw_data_EV_Sustainability.csv`: Scraped, unprocessed data
 - `clean_data_EV_Sustainability.csv`: Cleaned, analysis-ready data
+- `images/`: Chart images referenced in this README
 - `README.md`
 
 ## How to Run
