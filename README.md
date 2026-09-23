@@ -35,19 +35,19 @@ Note: lower Wh/km indicates higher efficiency, meaning the vehicle uses less ene
 
 ![Average efficiency by price tier](images/price_tier_efficiency.png)
 
-Average efficiency gets *worse* as price increases, from 163 Wh/km in the Budget tier up to 211 Wh/km in Luxury. Budget EVs are the most efficient segment, not the least.
+Grouping vehicles into price tiers reveals a consistent, almost linear trend: average efficiency gets *worse* as price increases, from 163 Wh/km in the Budget tier, up to 169 Wh/km in Mid-range, 178 Wh/km in Premium, and 211 Wh/km in Luxury. This runs directly counter to the common assumption that a higher price buys more advanced, more efficient technology. In this dataset, the opposite is true: Budget EVs are the most efficient segment, not the least, and Luxury models trade efficiency away in favor of size, weight, and performance.
 
 ### Tesla Leads on Efficiency Without Being a Budget Brand
 
 ![Top 10 most efficient brands](images/brand_efficiency.png)
 
-Tesla ranks 4th out of all brands on average efficiency (156 Wh/km), ahead of most competitors despite not being a budget manufacturer. Luxury-oriented brands are absent from the top 10 entirely.
+Ranking brands by average efficiency surfaces a mostly expected list, Dacia, Honda, and Mini lead, all budget-focused manufacturers. What stands out is Tesla, sitting 4th overall at 156 Wh/km, ahead of several other budget brands despite not being one itself. That positioning suggests Tesla's efficiency comes from deliberate engineering choices, not simply from building smaller or cheaper cars. Just as notable is who's missing: no luxury-oriented brand appears anywhere in the top 10, reinforcing the price-tier finding above from a different angle.
 
 ### Battery Size Alone Doesn't Predict Range
 
 ![Top 10 models by range per kWh](images/range_per_kwh.png)
 
-Across the dataset, a bigger battery doesn't reliably translate to more range per kWh, several models with smaller batteries achieve a better ratio than larger-battery competitors. Tesla Model 3 variants take 7 of the top 10 spots on this measure, indicating engineering efficiency rather than simply installing a bigger battery.
+Battery production is the most resource- and mining-intensive part of an EV, so a model that delivers more range per kWh is achieving efficiency through genuine engineering, not just by installing a bigger battery, a meaningful distinction for assessing real sustainability progress. This ranking is dominated by a single nameplate: Tesla Model 3 variants take 7 of the top 10 spots, led by the Model 3 RWD at 7.67 km per kWh. Given Tesla's efficiency score was already near the top of the brand comparison, this result reinforces the same conclusion from a different angle, Tesla's advantage isn't marginal, it's a consistently better ratio of usable range to battery size than most competitors manage.
 
 This challenges a common assumption that premium innovation trickles down to make clean transport more accessible over time. Instead, the data suggests genuine decarbonization progress is currently led by manufacturers designing for efficiency from the ground up, often in accessible segments, rather than by luxury models setting the pace. For a market still working toward making clean transport genuinely accessible, the more useful question may not be "how do we make efficient EVs cheaper," but "why aren't more manufacturers building as efficiently as the segment leaders already are."
 
