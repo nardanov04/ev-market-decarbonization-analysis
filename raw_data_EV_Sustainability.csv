@@ -10,192 +10,192 @@
 8,BMW iX3 50 xDrive,169 Wh/km,645 km,108.7 kWh,"£58,755",Available
 9,Mercedes-Benz CLA 250+,145 Wh/km,585 km,85.0 kWh,"£43,250",Available
 10,Kia EV3 Long Range,171 Wh/km,455 km,78.0 kWh,"£34,555",Available
-11,Volkswagen ID. Polo 155 kW - 52 kWh,154 Wh/km,335 km,51.7 kWh,"£26,830",Available
-12,Leapmotor B05 67.1 kWh,171 Wh/km,380 km,65.0 kWh,"£30,495",Available
+11,Leapmotor B05 67.1 kWh,171 Wh/km,380 km,65.0 kWh,"£30,495",Available
+12,Volkswagen ID. Polo 155 kW - 52 kWh,154 Wh/km,335 km,51.7 kWh,"£26,830",Available
 13,Tesla Model 3 Premium RWD,136 Wh/km,580 km,79.0 kWh,"£44,990",Available
-14,Tesla Model Y RWD,158 Wh/km,380 km,60.0 kWh,"£41,990",Discontinued
+14,Hyundai IONIQ 3 61 kWh,155 Wh/km,375 km,58.0 kWh,"£25,745",Available
 15,Tesla Model Y Long Range AWD,169 Wh/km,445 km,75.0 kWh,"£51,990",Discontinued
-16,Hyundai IONIQ 3 61 kWh,155 Wh/km,375 km,58.0 kWh,"£25,745",Available
-17,Skoda Epiq 55,162 Wh/km,320 km,51.7 kWh,"£26,200",Available
-18,Volvo EX60 P12 AWD,184 Wh/km,610 km,112.0 kWh,"£64,860",Available
+16,Skoda Epiq 55,162 Wh/km,320 km,51.7 kWh,"£26,200",Available
+17,Volvo EX60 P12 AWD,184 Wh/km,610 km,112.0 kWh,"£64,860",Available
+18,Tesla Model Y RWD,158 Wh/km,380 km,60.0 kWh,"£41,990",Discontinued
 19,BYD ATTO 2 64.8 kWh,191 Wh/km,340 km,64.8 kWh,"£34,975",Available
 20,Tesla Model Y Premium AWD,165 Wh/km,480 km,79.0 kWh,"£51,990",Discontinued
 21,Mercedes-Benz GLC 400 4MATIC,176 Wh/km,535 km,94.0 kWh,"£60,350",Available
-22,BMW iX5 60 xDrive,210 Wh/km,670 km,141.0 kWh,"* £95,000",
-23,Kia Niro EV,168 Wh/km,385 km,64.8 kWh,"£37,295",Discontinued
-24,Leapmotor B10 67.1 kWh,181 Wh/km,360 km,65.0 kWh,"£31,495",Available
-25,Hyundai IONIQ 5 84 kWh RWD,178 Wh/km,450 km,80.0 kWh,"£43,400",Available
-26,BYD SEALION 7 91.3 kWh AWD Excellence,208 Wh/km,440 km,91.3 kWh,"£58,990",Available
-27,Zeekr 7GT Long Range RWD,175 Wh/km,555 km,97.0 kWh,N/A,Available
+22,Kia Niro EV,168 Wh/km,385 km,64.8 kWh,"£37,295",Discontinued
+23,BMW iX5 60 xDrive,210 Wh/km,670 km,141.0 kWh,"* £95,000",
+24,Hyundai IONIQ 5 84 kWh RWD,178 Wh/km,450 km,80.0 kWh,"£43,400",Available
+25,Leapmotor B10 67.1 kWh,181 Wh/km,360 km,65.0 kWh,"£31,495",Available
+26,Tesla Model 3 RWD,130 Wh/km,460 km,60.0 kWh,N/A,Available
+27,BYD SEALION 7 91.3 kWh AWD Excellence,208 Wh/km,440 km,91.3 kWh,"£58,990",Available
 28,Toyota C-HR+ 77 kWh,167 Wh/km,430 km,72.0 kWh,"£35,495",Available
-29,Renault 5 E-Tech 52kWh 150hp,155 Wh/km,335 km,52.0 kWh,"£23,945",Available
+29,Zeekr 7GT Long Range RWD,175 Wh/km,555 km,97.0 kWh,N/A,Available
 30,Tesla Model 3 Long Range AWD,155 Wh/km,485 km,75.0 kWh,"£50,990",Discontinued
-31,Tesla Model Y Long Range AWD,165 Wh/km,455 km,75.0 kWh,"£51,990",Discontinued
-32,Tesla Model 3 Long Range RWD,136 Wh/km,550 km,75.0 kWh,"£44,990",Discontinued
-33,Leapmotor B03X 53.0 kWh,173 Wh/km,300 km,52.0 kWh,N/A,Available
-34,Renault Twingo E-Tech 27.5 kWh,149 Wh/km,185 km,27.5 kWh,"* £18,000",Available
+31,Renault 5 E-Tech 52kWh 150hp,155 Wh/km,335 km,52.0 kWh,"£23,945",Available
+32,Leapmotor B03X 53.0 kWh,173 Wh/km,300 km,52.0 kWh,N/A,Available
+33,Tesla Model Y Long Range AWD,165 Wh/km,455 km,75.0 kWh,"£51,990",Discontinued
+34,Tesla Model 3 Long Range RWD,136 Wh/km,550 km,75.0 kWh,"£44,990",Discontinued
 35,XPENG G6 RWD Long Range,178 Wh/km,450 km,80.0 kWh,"£44,990",Available
 36,BMW iX3 40,162 Wh/km,510 km,82.6 kWh,"£53,250",Available
-37,Tesla Model Y Premium RWD,159 Wh/km,465 km,74.0 kWh,"£48,990",Available
-38,Dongfeng Box 42.3 kWh,157 Wh/km,255 km,40.0 kWh,N/A,Available
-39,Tesla Model 3 RWD,130 Wh/km,460 km,60.0 kWh,N/A,Available
-40,Mazda CX-6e 78 kWh,183 Wh/km,420 km,77.0 kWh,"£42,990",Available
-41,Skoda Peaq 90,172 Wh/km,500 km,86.0 kWh,"£51,980",Available
+37,Renault Twingo E-Tech 27.5 kWh,149 Wh/km,185 km,27.5 kWh,"* £18,000",Available
+38,Skoda Peaq 90,172 Wh/km,500 km,86.0 kWh,"£51,980",Available
+39,Tesla Model Y Premium RWD,159 Wh/km,465 km,74.0 kWh,"£48,990",Available
+40,Dongfeng Box 42.3 kWh,157 Wh/km,255 km,40.0 kWh,N/A,Available
+41,Tesla Model Y Premium AWD,166 Wh/km,475 km,79.0 kWh,"£51,990",Available
 42,Kia PV5 Passenger 71.2 kWh,197 Wh/km,340 km,67.0 kWh,"£34,695",Available
-43,Renault Megane E-Tech EV60 220hp,158 Wh/km,380 km,60.0 kWh,"£37,995",Discontinued
-44,Mercedes-Benz C 400 4MATIC,169 Wh/km,555 km,94.0 kWh,"£57,995",Available
-45,Jaecoo 5 EV,181 Wh/km,325 km,58.9 kWh,"£27,505",Available
-46,Volvo EX30 Single Motor ER,178 Wh/km,365 km,65.0 kWh,"£37,260",Discontinued
-47,Tesla Model Y RWD,165 Wh/km,345 km,57.0 kWh,"£44,990",Discontinued
-48,Kia EV4 Hatchback 81.4 kWh,154 Wh/km,505 km,78.0 kWh,"£33,245",Available
-49,Citroen e-C3 Standard Range 44 kWh,172 Wh/km,255 km,43.8 kWh,"£22,295",Available
-50,Hyundai INSTER Long Range,153 Wh/km,300 km,46.0 kWh,"£24,545",Available
-51,Tesla Model Y Premium AWD,166 Wh/km,475 km,79.0 kWh,"£51,990",Available
-52,Leapmotor T03,160 Wh/km,225 km,36.0 kWh,"£14,495",Available
-53,BMW i4 eDrive40,157 Wh/km,515 km,80.7 kWh,"£57,890",Discontinued
-54,Audi A2 e-tron 170 kW - 79 kWh,156 Wh/km,505 km,79.0 kWh,"* £41,000",Available
-55,Skoda Enyaq iV 80,175 Wh/km,440 km,77.0 kWh,"£42,925",Discontinued
-56,BYD DOLPHIN SURF 43.2 kWh Comfort,163 Wh/km,265 km,43.2 kWh,"£23,950",Available
-57,BYD ATTO 3 Evo RWD Design,185 Wh/km,405 km,74.8 kWh,"£38,990",Available
-58,Volkswagen e-Golf,168 Wh/km,190 km,32.0 kWh,"£28,075",Discontinued
-59,Tesla Model Y Performance,172 Wh/km,460 km,79.0 kWh,"£61,990",Available
-60,Hyundai Kona Electric 65 kWh,168 Wh/km,390 km,65.4 kWh,"£31,250",Available
-61,Lucid Air Grand Touring,163 Wh/km,720 km,117.0 kWh,N/A,Available
-62,Volkswagen ID.3 Neo 170 kW - 79 kWh,161 Wh/km,490 km,79.0 kWh,"£35,495",Available
-63,Renault Zoe ZE50 R110,165 Wh/km,315 km,52.0 kWh,"£29,095",Discontinued
-64,Hyundai IONIQ 6 84 kWh RWD,147 Wh/km,545 km,80.0 kWh,N/A,Available
-65,Audi e-tron 55 quattro,237 Wh/km,365 km,86.5 kWh,"£72,935",Discontinued
+43,Mazda CX-6e 78 kWh,183 Wh/km,420 km,77.0 kWh,"£42,990",Available
+44,Renault Megane E-Tech EV60 220hp,154 Wh/km,390 km,60.0 kWh,"£37,995",Discontinued
+45,Mercedes-Benz C 400 4MATIC,169 Wh/km,555 km,94.0 kWh,"£57,995",Available
+46,Citroen e-C3 Standard Range 44 kWh,172 Wh/km,255 km,43.8 kWh,"£22,295",Available
+47,Jaecoo 5 EV,181 Wh/km,325 km,58.9 kWh,"£27,505",Available
+48,Hyundai INSTER Long Range,153 Wh/km,300 km,46.0 kWh,"£24,545",Available
+49,Tesla Model Y RWD,165 Wh/km,345 km,57.0 kWh,"£44,990",Discontinued
+50,Kia EV4 Hatchback 81.4 kWh,154 Wh/km,505 km,78.0 kWh,"£33,245",Available
+51,BMW i4 eDrive40,157 Wh/km,515 km,80.7 kWh,"£57,890",Discontinued
+52,Volvo EX30 Single Motor ER,178 Wh/km,365 km,65.0 kWh,"£37,260",Discontinued
+53,Leapmotor T03,160 Wh/km,225 km,36.0 kWh,"£14,495",Available
+54,BYD DOLPHIN SURF 43.2 kWh Comfort,163 Wh/km,265 km,43.2 kWh,"£23,950",Available
+55,BYD ATTO 3 Evo RWD Design,185 Wh/km,405 km,74.8 kWh,"£38,990",Available
+56,Volkswagen e-Golf,168 Wh/km,190 km,32.0 kWh,"£28,075",Discontinued
+57,Hyundai Kona Electric 65 kWh,168 Wh/km,390 km,65.4 kWh,"£31,250",Available
+58,Audi A2 e-tron 170 kW - 79 kWh,156 Wh/km,505 km,79.0 kWh,"* £41,000",Available
+59,Lucid Air Grand Touring,163 Wh/km,720 km,117.0 kWh,N/A,Available
+60,Volkswagen ID.3 Neo 170 kW - 79 kWh,161 Wh/km,490 km,79.0 kWh,"£35,495",Available
+61,Skoda Enyaq iV 80,175 Wh/km,440 km,77.0 kWh,"£42,925",Discontinued
+62,Tesla Model Y Performance,172 Wh/km,460 km,79.0 kWh,"£61,990",Available
+63,Tesla Model Y RWD,158 Wh/km,380 km,60.0 kWh,"£41,990",Available
+64,Renault Zoe ZE50 R110,165 Wh/km,315 km,52.0 kWh,"£29,095",Discontinued
+65,Hyundai IONIQ 6 84 kWh RWD,147 Wh/km,545 km,80.0 kWh,N/A,Available
 66,Zeekr 7X Long Range RWD,192 Wh/km,505 km,97.0 kWh,N/A,Available
 67,MG MGS5 EV 64 kWh,170 Wh/km,365 km,62.1 kWh,"£31,245",Available
-68,Kia EV2 61 kWh,171 Wh/km,340 km,58.0 kWh,"£24,245",Available
-69,Mercedes-Benz EQB 250+,170 Wh/km,415 km,70.5 kWh,"£52,800",Discontinued
+68,Audi e-tron 55 quattro,237 Wh/km,365 km,86.5 kWh,"£72,935",Discontinued
+69,Tesla Model S Plaid,170 Wh/km,560 km,95.0 kWh,"* £100,000",Discontinued
 70,Mercedes-Benz GLB 250+,179 Wh/km,475 km,85.0 kWh,"£46,100",Available
 71,Kia EV5 81.4 kWh,190 Wh/km,410 km,78.0 kWh,"£39,345",Available
-72,Tesla Model S Plaid,170 Wh/km,560 km,95.0 kWh,"* £100,000",Discontinued
-73,Renault Scenic E-Tech EV87 220hp,181 Wh/km,480 km,87.0 kWh,"£33,245",Available
-74,Changan Deepal S05 RWD,177 Wh/km,385 km,68.0 kWh,"£37,990",Available
-75,Tesla Model Y Performance,174 Wh/km,430 km,75.0 kWh,"£59,990",Discontinued
+72,Mercedes-Benz EQB 250+,170 Wh/km,415 km,70.5 kWh,"£52,800",Discontinued
+73,Kia EV2 61 kWh,171 Wh/km,340 km,58.0 kWh,"£24,245",Available
+74,Tesla Model Y Performance,174 Wh/km,430 km,75.0 kWh,"£59,990",Discontinued
+75,Skoda Elroq 60,168 Wh/km,345 km,58.0 kWh,"£32,470",Available
 76,Kia EV6 Long Range AWD,182 Wh/km,440 km,80.0 kWh,"£52,135",Available
 77,Nissan LEAF Extended Range 75 kWh,165 Wh/km,455 km,75.1 kWh,"£32,249",Available
-78,Skoda Elroq 60,168 Wh/km,345 km,58.0 kWh,"£32,470",Available
-79,Mercedes-Benz GLA 250+,170 Wh/km,500 km,85.0 kWh,"£45,400",Available
-80,BYD SEAL 82.5 kWh AWD Excellence,185 Wh/km,445 km,82.5 kWh,"£48,695",Discontinued
+78,Renault Scenic E-Tech EV87 220hp,181 Wh/km,480 km,87.0 kWh,"£33,245",Available
+79,Changan Deepal S05 RWD,177 Wh/km,385 km,68.0 kWh,"£37,990",Available
+80,Tesla Model Y RWD,160 Wh/km,375 km,60.0 kWh,"£44,990",Discontinued
 81,MG MG4 Urban Comfort Long Range,165 Wh/km,320 km,52.8 kWh,"£25,495",Available
-82,Volvo EX60 P10 AWD,182 Wh/km,500 km,91.0 kWh,"£59,860",Available
-83,Tesla Model Y RWD,160 Wh/km,375 km,60.0 kWh,"£44,990",Discontinued
-84,Geely E2 47 kWh,168 Wh/km,280 km,47.1 kWh,"£23,490",Available
-85,Tesla Model 3 Standard Range Plus,153 Wh/km,320 km,49.0 kWh,"£40,490",Discontinued
-86,Tesla Model Y RWD,158 Wh/km,380 km,60.0 kWh,"£41,990",Available
-87,Hyundai Kona Electric 64 kWh,164 Wh/km,390 km,64.0 kWh,"£37,750",Discontinued
-88,Skoda Enyaq 85,167 Wh/km,460 km,77.0 kWh,"£40,560",Available
-89,BMW iX3,192 Wh/km,385 km,74.0 kWh,"£64,165",Discontinued
-90,Dacia Spring Electric 80,157 Wh/km,175 km,27.5 kWh,N/A,
-91,GAC AION UT 60 kWh,182 Wh/km,330 km,60.0 kWh,"* £28,950",
-92,CUPRA Raval 155 kW - 52 kWh,157 Wh/km,330 km,51.7 kWh,"£28,495",Available
-93,Mazda 6e 78 kWh,164 Wh/km,470 km,77.0 kWh,"£38,995",Available
-94,Tesla Model 3 RWD,143 Wh/km,400 km,57.0 kWh,"£42,990",Discontinued
-95,BYD ATTO 3,183 Wh/km,330 km,60.5 kWh,"£37,195",Discontinued
-96,Tesla Model 3 Premium AWD,142 Wh/km,555 km,79.0 kWh,"£49,990",Available
+82,Mercedes-Benz GLA 250+,170 Wh/km,500 km,85.0 kWh,"£45,400",Available
+83,Volvo EX60 P10 AWD,182 Wh/km,500 km,91.0 kWh,"£59,860",Available
+84,Hyundai Kona Electric 64 kWh,164 Wh/km,390 km,64.0 kWh,"£37,750",Discontinued
+85,BYD SEAL 82.5 kWh AWD Excellence,185 Wh/km,445 km,82.5 kWh,"£48,695",Discontinued
+86,GAC AION UT 60 kWh,182 Wh/km,330 km,60.0 kWh,"* £28,950",
+87,Skoda Enyaq 85,167 Wh/km,460 km,77.0 kWh,"£40,560",Available
+88,Geely E2 47 kWh,168 Wh/km,280 km,47.1 kWh,"£23,490",Available
+89,BYD ATTO 3,183 Wh/km,330 km,60.5 kWh,"£37,195",Discontinued
+90,Tesla Model 3 Standard Range Plus,153 Wh/km,320 km,49.0 kWh,"£40,490",Discontinued
+91,Tesla Model 3 Premium AWD,142 Wh/km,555 km,79.0 kWh,"£49,990",Available
+92,BMW iX3,192 Wh/km,385 km,74.0 kWh,"£64,165",Discontinued
+93,Tesla Model 3 RWD,143 Wh/km,400 km,57.0 kWh,"£42,990",Discontinued
+94,Mazda 6e 78 kWh,164 Wh/km,470 km,77.0 kWh,"£38,995",Available
+95,Toyota bZ4X Touring AWD 74.7 kWh,184 Wh/km,385 km,71.0 kWh,"£51,695",Available
+96,CUPRA Raval 155 kW - 52 kWh,157 Wh/km,330 km,51.7 kWh,"£28,495",Available
 97,Hyundai IONIQ 5 N,205 Wh/km,390 km,80.0 kWh,"£65,000",Available
-98,Toyota bZ4X Touring AWD 74.7 kWh,184 Wh/km,385 km,71.0 kWh,"£51,695",Available
-99,BYD DOLPHIN 60.4 kWh,173 Wh/km,350 km,60.5 kWh,"£30,205",Available
-100,BYD SEAL U 87 kWh Design,205 Wh/km,425 km,87.0 kWh,N/A,Available
-101,BMW iX1 xDrive30,170 Wh/km,380 km,64.7 kWh,"£47,465",Discontinued
-102,Mercedes-Benz CLA Shooting Brake 250+,149 Wh/km,570 km,85.0 kWh,"£44,250",Available
-103,Mercedes-Benz EQC 400 4MATIC,216 Wh/km,370 km,80.0 kWh,"£74,330",Discontinued
-104,TOGG T10X Long Range RWD,195 Wh/km,435 km,85.0 kWh,N/A,Available
+98,BYD DOLPHIN 60.4 kWh,173 Wh/km,350 km,60.5 kWh,"£30,205",Available
+99,Hyundai IONIQ Electric,153 Wh/km,250 km,38.3 kWh,"£32,050",Discontinued
+100,BMW iX1 xDrive30,170 Wh/km,380 km,64.7 kWh,"£47,465",Discontinued
+101,BYD SEAL U 87 kWh Design,205 Wh/km,425 km,87.0 kWh,N/A,Available
+102,Skoda Elroq 85,171 Wh/km,450 km,77.0 kWh,"£35,560",Available
+103,Tesla Model 3 Performance,153 Wh/km,490 km,75.0 kWh,"£59,990",Discontinued
+104,Omoda E5,178 Wh/km,330 km,58.9 kWh,"£33,055",Available
 105,KGM Torres EVX 80.6 kWh,197 Wh/km,410 km,80.6 kWh,N/A,Available
-106,Hyundai IONIQ Electric,153 Wh/km,250 km,38.3 kWh,"£32,050",Discontinued
-107,Tesla Model 3 Performance,153 Wh/km,490 km,75.0 kWh,"£59,990",Discontinued
-108,BMW iX1 eDrive20,163 Wh/km,400 km,65.2 kWh,"£33,315",Available
-109,Mercedes-Benz EQS 450+,169 Wh/km,720 km,122.0 kWh,"£104,540",Available
-110,Skoda Elroq 85,171 Wh/km,450 km,77.0 kWh,"£35,560",Available
-111,Omoda E5,178 Wh/km,330 km,58.9 kWh,"£33,055",Available
-112,XPENG P7+ RWD Long Range,163 Wh/km,460 km,74.9 kWh,N/A,Available
-113,MG ZS EV Long Range,185 Wh/km,370 km,68.3 kWh,"£32,995",Discontinued
-114,Kia EV2 42.2 kWh,171 Wh/km,240 km,41.0 kWh,"£26,995",Available
+106,Mercedes-Benz EQC 400 4MATIC,216 Wh/km,370 km,80.0 kWh,"£74,330",Discontinued
+107,Volkswagen ID.4 Pro,173 Wh/km,445 km,77.0 kWh,"£46,035",Discontinued
+108,Mercedes-Benz EQS 450+,169 Wh/km,720 km,122.0 kWh,"£104,540",Available
+109,BMW iX1 eDrive20,163 Wh/km,400 km,65.2 kWh,"£33,315",Available
+110,Dacia Spring Electric 80,157 Wh/km,175 km,27.5 kWh,N/A,
+111,MG ZS EV Long Range,185 Wh/km,370 km,68.3 kWh,"£32,995",Discontinued
+112,TOGG T10X Long Range RWD,195 Wh/km,435 km,85.0 kWh,N/A,Available
+113,Nissan LEAF 40 kWh,166 Wh/km,235 km,39.0 kWh,"£28,290",Discontinued
+114,XPENG P7+ RWD Long Range,163 Wh/km,460 km,74.9 kWh,N/A,Available
 115,Kia e-Niro 64 kWh,171 Wh/km,375 km,64.0 kWh,"£34,995",Discontinued
-116,Dacia Spring Electric 70,145 Wh/km,165 km,24.0 kWh,"£11,990",Available
-117,Nissan LEAF 40 kWh,166 Wh/km,235 km,39.0 kWh,"£28,290",Discontinued
-118,Volkswagen ID.4 Pro,173 Wh/km,445 km,77.0 kWh,"£46,035",Discontinued
-119,Fiat Grande Panda,168 Wh/km,260 km,43.8 kWh,"£20,995",Available
-120,Tesla Model 3 Long Range AWD,155 Wh/km,490 km,76.0 kWh,N/A,Discontinued
-121,Volkswagen ID.7 86 kWh,164 Wh/km,525 km,86.0 kWh,"£54,930",Available
-122,Volkswagen ID. Polo 85 kW - 37 kWh,153 Wh/km,245 km,37.5 kWh,"£23,945",Available
-123,Kia EV3 Standard Range,169 Wh/km,325 km,55.0 kWh,"£31,555",Available
-124,Mercedes-Benz EQS 450+,172 Wh/km,685 km,118.0 kWh,"£112,620",Discontinued
-125,Changan Deepal S07 Standard,190 Wh/km,410 km,78.0 kWh,"£39,990",Available
-126,Hyundai IONIQ 5 84 kWh AWD,180 Wh/km,445 km,80.0 kWh,"£50,900",Available
-127,Citroen e-C3 Aircross Extended Range 54 kWh,184 Wh/km,290 km,53.5 kWh,"£23,495",Available
-128,Tesla Model 3 Standard Range Plus,146 Wh/km,350 km,51.0 kWh,"£40,990",Discontinued
+116,Fiat Grande Panda,168 Wh/km,260 km,43.8 kWh,"£20,995",Available
+117,Kia EV2 42.2 kWh,171 Wh/km,240 km,41.0 kWh,"£26,995",Available
+118,Mercedes-Benz CLA Shooting Brake 250+,149 Wh/km,570 km,85.0 kWh,"£44,250",Available
+119,Volkswagen ID.7 86 kWh,164 Wh/km,525 km,86.0 kWh,"£54,930",Available
+120,Volkswagen ID. Polo 85 kW - 37 kWh,153 Wh/km,245 km,37.5 kWh,"£23,945",Available
+121,Dacia Spring Electric 70,145 Wh/km,165 km,24.0 kWh,"£11,990",Available
+122,Changan Deepal S07 Standard,190 Wh/km,410 km,78.0 kWh,"£39,990",Available
+123,Tesla Model 3 Long Range AWD,155 Wh/km,490 km,76.0 kWh,N/A,Discontinued
+124,Hyundai IONIQ 5 84 kWh AWD,180 Wh/km,445 km,80.0 kWh,"£50,900",Available
+125,Tesla Model 3 Standard Range Plus,146 Wh/km,350 km,51.0 kWh,"£40,990",Discontinued
+126,Kia EV3 Standard Range,169 Wh/km,325 km,55.0 kWh,"£31,555",Available
+127,Mercedes-Benz EQS 450+,172 Wh/km,685 km,118.0 kWh,"£112,620",Discontinued
+128,Mazda 6e 68.8 kWh,162 Wh/km,420 km,68.0 kWh,N/A,Discontinued
 129,BMW i3 120 Ah,161 Wh/km,235 km,37.9 kWh,"£33,805",Discontinued
-130,Mazda 6e 68.8 kWh,162 Wh/km,420 km,68.0 kWh,N/A,Discontinued
-131,BMW i4 eDrive40,155 Wh/km,525 km,81.3 kWh,"£59,465",Available
-132,Audi A2 e-tron 140 kW - 58 kWh,155 Wh/km,375 km,58.0 kWh,"* £35,500",Available
-133,TOGG T10F Long Range RWD,173 Wh/km,490 km,85.0 kWh,N/A,Available
-134,XPENG G9 RWD Long Range,188 Wh/km,490 km,92.2 kWh,N/A,Available
-135,Tesla Model 3 Long Range AWD,162 Wh/km,455 km,73.5 kWh,"£46,990",Discontinued
-136,Tesla Model Y Long Range AWD,169 Wh/km,425 km,72.0 kWh,N/A,Discontinued
-137,BMW iX xDrive50,208 Wh/km,505 km,105.2 kWh,"£102,755",Discontinued
-138,Mercedes-Benz VLE 400 4MATIC,228 Wh/km,505 km,115.0 kWh,N/A,Available
-139,Tesla Model 3 Performance,153 Wh/km,515 km,79.0 kWh,"£59,990",Available
-140,BYD SEALION 7 82.5 kWh RWD Comfort,196 Wh/km,420 km,82.5 kWh,"£46,990",Available
-141,Toyota bZ4X AWD 73.1 kWh,184 Wh/km,375 km,69.0 kWh,"£52,510",Available
-142,Hyundai Kona Electric 64 kWh,164 Wh/km,390 km,64.0 kWh,"£39,150",Discontinued
-143,Opel Frontera Electric 54 kWh,184 Wh/km,290 km,53.5 kWh,"£25,995",Available
-144,Tesla Model Y Long Range RWD,165 Wh/km,455 km,75.0 kWh,"£46,990",Discontinued
-145,Skoda Elroq 85,171 Wh/km,450 km,77.0 kWh,"£35,560",Discontinued
-146,Renault 4 E-Tech 52kWh 150hp,165 Wh/km,315 km,52.0 kWh,"£23,445",Available
-147,BYD TANG Flagship,237 Wh/km,460 km,108.8 kWh,N/A,Available
-148,BYD ATTO 3 Evo AWD Excellence,192 Wh/km,390 km,74.8 kWh,"£42,730",Available
-149,Skoda Peaq 90x,176 Wh/km,490 km,86.0 kWh,"£57,230",Available
-150,Tesla Model 3 Performance,162 Wh/km,470 km,76.0 kWh,"£59,990",Discontinued
-151,Volkswagen ID.4 Pro,172 Wh/km,460 km,79.0 kWh,"£35,495",Available
-152,Tesla Model 3 Long Range AWD,143 Wh/km,525 km,75.0 kWh,"£49,990",Discontinued
-153,XPENG L03 AWD Performance,178 Wh/km,390 km,69.5 kWh,N/A,Available
-154,Peugeot e-2008 54 kWh,169 Wh/km,300 km,50.8 kWh,"£33,900",Available
-155,BYD ATTO 3,178 Wh/km,340 km,60.5 kWh,"£37,730",Discontinued
-156,Volvo EX30 P5 Long Range,178 Wh/km,365 km,65.0 kWh,"£37,260",Available
-157,Leapmotor C10 AWD 81.9 kWh,216 Wh/km,380 km,81.9 kWh,N/A,Available
+130,BMW i4 eDrive40,155 Wh/km,525 km,81.3 kWh,"£59,465",Available
+131,Citroen e-C3 Aircross Extended Range 54 kWh,184 Wh/km,290 km,53.5 kWh,"£23,495",Available
+132,Tesla Model 3 Performance,153 Wh/km,515 km,79.0 kWh,"£59,990",Available
+133,Tesla Model 3 Long Range AWD,162 Wh/km,455 km,73.5 kWh,"£46,990",Discontinued
+134,TOGG T10F Long Range RWD,173 Wh/km,490 km,85.0 kWh,N/A,Available
+135,Opel Frontera Electric 54 kWh,184 Wh/km,290 km,53.5 kWh,"£25,995",Available
+136,XPENG G9 RWD Long Range,188 Wh/km,490 km,92.2 kWh,N/A,Available
+137,Toyota bZ4X AWD 73.1 kWh,184 Wh/km,375 km,69.0 kWh,"£52,510",Available
+138,Hyundai Kona Electric 64 kWh,164 Wh/km,390 km,64.0 kWh,"£39,150",Discontinued
+139,Volkswagen ID.4 Pro,172 Wh/km,460 km,79.0 kWh,"£35,495",Available
+140,Skoda Peaq 90x,176 Wh/km,490 km,86.0 kWh,"£57,230",Available
+141,Tesla Model Y Long Range AWD,169 Wh/km,425 km,72.0 kWh,N/A,Discontinued
+142,BMW iX xDrive50,208 Wh/km,505 km,105.2 kWh,"£102,755",Discontinued
+143,Skoda Elroq 85,171 Wh/km,450 km,77.0 kWh,"£35,560",Discontinued
+144,Leapmotor C10 AWD 81.9 kWh,216 Wh/km,380 km,81.9 kWh,N/A,Available
+145,BYD SEALION 7 82.5 kWh RWD Comfort,196 Wh/km,420 km,82.5 kWh,"£46,990",Available
+146,Tesla Model Y Long Range RWD,165 Wh/km,455 km,75.0 kWh,"£46,990",Discontinued
+147,Renault 4 E-Tech 52kWh 150hp,165 Wh/km,315 km,52.0 kWh,"£23,445",Available
+148,Audi A2 e-tron 140 kW - 58 kWh,155 Wh/km,375 km,58.0 kWh,"* £35,500",Available
+149,Tesla Model 3 Long Range AWD,143 Wh/km,525 km,75.0 kWh,"£49,990",Discontinued
+150,BYD ATTO 3 Evo AWD Excellence,192 Wh/km,390 km,74.8 kWh,"£42,730",Available
+151,BYD TANG Flagship,237 Wh/km,460 km,108.8 kWh,N/A,Available
+152,Tesla Model 3 Performance,162 Wh/km,470 km,76.0 kWh,"£59,990",Discontinued
+153,Volvo EX30 P5 Long Range,178 Wh/km,365 km,65.0 kWh,"£37,260",Available
+154,XPENG L03 AWD Performance,178 Wh/km,390 km,69.5 kWh,N/A,Available
+155,Mercedes-Benz VLE 400 4MATIC,228 Wh/km,505 km,115.0 kWh,N/A,Available
+156,Peugeot e-2008 54 kWh,169 Wh/km,300 km,50.8 kWh,"£33,900",Available
+157,MG MG5 Electric Long Range,171 Wh/km,335 km,57.4 kWh,"£30,995",Discontinued
 158,BYD SEALION 7 82.5 kWh AWD Design,204 Wh/km,405 km,82.5 kWh,"£51,990",Available
-159,MG MG4 Urban Standard Range,164 Wh/km,255 km,41.9 kWh,"£23,495",Available
-160,Volkswagen ID.4 Pro Performance,188 Wh/km,410 km,77.0 kWh,"£46,035",Discontinued
-161,MG MG5 Electric Long Range,171 Wh/km,335 km,57.4 kWh,"£30,995",Discontinued
-162,Renault Megane E-Tech EV60 220hp,158 Wh/km,380 km,60.0 kWh,"£31,295",Available
-163,Volvo EX40 P5 Long Range,198 Wh/km,400 km,79.0 kWh,N/A,Available
-164,Mini Cooper SE,161 Wh/km,180 km,28.9 kWh,"£32,550",Discontinued
-165,Mercedes-Benz G 580,294 Wh/km,395 km,116.0 kWh,"£180,860",Available
-166,Skoda Enyaq 85,169 Wh/km,455 km,77.0 kWh,"£40,560",Discontinued
-167,GAC AION V 75 kWh,179 Wh/km,420 km,75.3 kWh,"£36,450",Available
-168,Peugeot e-3008 73 kWh,192 Wh/km,380 km,73.0 kWh,"£45,960",Available
-169,BMW i4 M50,179 Wh/km,450 km,80.7 kWh,"£71,085",Discontinued
-170,Tesla Model Y Premium RWD,160 Wh/km,470 km,75.0 kWh,"£48,990",Discontinued
-171,Volkswagen ID.3 Neo 140 kW - 58 kWh,159 Wh/km,365 km,58.0 kWh,"£33,995",Available
-172,Geely E2 35 kWh,164 Wh/km,215 km,35.4 kWh,"£20,990",Available
-173,Audi Q8 SUV e-tron 55 quattro,210 Wh/km,505 km,106.0 kWh,"£80,715",Discontinued
+159,MG MG4 Electric 51 kWh,169 Wh/km,300 km,50.8 kWh,"£27,245",Discontinued
+160,BYD ATTO 3,178 Wh/km,340 km,60.5 kWh,"£37,730",Discontinued
+161,Volkswagen ID.4 Pro Performance,188 Wh/km,410 km,77.0 kWh,"£46,035",Discontinued
+162,Mini Cooper SE,161 Wh/km,180 km,28.9 kWh,"£32,550",Discontinued
+163,Volkswagen ID.3 Neo 140 kW - 58 kWh,159 Wh/km,365 km,58.0 kWh,"£33,995",Available
+164,MG MG4 Urban Standard Range,164 Wh/km,255 km,41.9 kWh,"£23,495",Available
+165,Subaru E-Outback AWD,192 Wh/km,370 km,71.0 kWh,N/A,Available
+166,GAC AION V 75 kWh,179 Wh/km,420 km,75.3 kWh,"£36,450",Available
+167,Renault Megane E-Tech EV60 220hp,154 Wh/km,390 km,60.0 kWh,"£31,295",Available
+168,BMW i4 M50,179 Wh/km,450 km,80.7 kWh,"£71,085",Discontinued
+169,Lynk&Co 02,175 Wh/km,355 km,62.0 kWh,N/A,Available
+170,Skoda Enyaq 85,169 Wh/km,455 km,77.0 kWh,"£40,560",Discontinued
+171,Tesla Model Y Long Range RWD,160 Wh/km,470 km,75.0 kWh,"£48,990",Discontinued
+172,Peugeot e-3008 73 kWh,192 Wh/km,380 km,73.0 kWh,"£45,960",Available
+173,Zeekr 7GT Privilege AWD,183 Wh/km,530 km,97.0 kWh,N/A,Available
 174,Kia EV9 99.8 kWh AWD,221 Wh/km,435 km,96.0 kWh,N/A,Available
-175,Tesla Model Y Long Range RWD,160 Wh/km,470 km,75.0 kWh,"£48,990",Discontinued
-176,Mini Cooper SE,149 Wh/km,330 km,49.2 kWh,"£29,105",Available
-177,Skoda Elroq 60,169 Wh/km,350 km,59.0 kWh,"£32,470",Discontinued
-178,Zeekr 7GT Privilege AWD,183 Wh/km,530 km,97.0 kWh,N/A,Available
-179,Peugeot e-3008 97 kWh Long Range,194 Wh/km,500 km,96.9 kWh,"£48,660",Available
-180,Mercedes-Benz CLA 350 4MATIC,148 Wh/km,575 km,85.0 kWh,"£51,800",Available
-181,Renault 5 E-Tech 52kWh 150hp,151 Wh/km,345 km,52.0 kWh,N/A,Available
-182,MG MG4 Electric 51 kWh,169 Wh/km,300 km,50.8 kWh,"£27,245",Discontinued
-183,firefly firefly,172 Wh/km,240 km,41.2 kWh,N/A,Available
-184,Volkswagen ID. Cross 155 kW - 52 kWh,164 Wh/km,315 km,51.7 kWh,"* £34,000",Available
-185,Leapmotor B05 56.2 kWh,172 Wh/km,320 km,55.0 kWh,N/A,Available
-186,Subaru E-Outback AWD,192 Wh/km,370 km,71.0 kWh,N/A,Available
-187,Mercedes-Benz VLE 300,221 Wh/km,520 km,115.0 kWh,N/A,Available
-188,Nissan Ariya 87kWh,193 Wh/km,450 km,87.0 kWh,"£35,500",Discontinued
-189,Hyundai IONIQ 3 42.2 kWh,155 Wh/km,265 km,41.0 kWh,"£22,245",Available
+175,Mercedes-Benz G 580,294 Wh/km,395 km,116.0 kWh,"£180,860",Available
+176,Tesla Model Y Premium RWD,160 Wh/km,470 km,75.0 kWh,"£48,990",Discontinued
+177,Audi Q8 SUV e-tron 55 quattro,210 Wh/km,505 km,106.0 kWh,"£80,715",Discontinued
+178,XPENG G6 AWD Performance,182 Wh/km,440 km,80.0 kWh,"£49,990",Available
+179,Volvo EX40 P5 Long Range,198 Wh/km,400 km,79.0 kWh,N/A,Available
+180,Skoda Elroq 60,169 Wh/km,350 km,59.0 kWh,"£32,470",Discontinued
+181,Nissan Ariya 87kWh,193 Wh/km,450 km,87.0 kWh,"£35,500",Discontinued
+182,Tesla Model 3 Long Range AWD,155 Wh/km,465 km,72.0 kWh,"£49,990",Discontinued
+183,Mini Cooper SE,149 Wh/km,330 km,49.2 kWh,"£29,105",Available
+184,Mercedes-Benz CLA 200,145 Wh/km,400 km,58.0 kWh,"£39,150",Available
+185,Mercedes-Benz VLE 300,221 Wh/km,520 km,115.0 kWh,N/A,Available
+186,Peugeot e-3008 97 kWh Long Range,194 Wh/km,500 km,96.9 kWh,"£48,660",Available
+187,Hyundai IONIQ 3 42.2 kWh,155 Wh/km,265 km,41.0 kWh,"£22,245",Available
+188,Renault 5 E-Tech 52kWh 150hp,151 Wh/km,345 km,52.0 kWh,N/A,Available
+189,Geely E2 35 kWh,164 Wh/km,215 km,35.4 kWh,"£20,990",Available
 190,Hyundai IONIQ Electric,147 Wh/km,190 km,28.0 kWh,"£27,250",Discontinued
-191,Tesla Model 3 Long Range AWD,155 Wh/km,465 km,72.0 kWh,"£49,990",Discontinued
-192,MG IM5 Long Range,182 Wh/km,530 km,96.5 kWh,"£44,995",Available
-193,Lynk&Co 02,175 Wh/km,355 km,62.0 kWh,N/A,Available
-194,Honda Super-N,151 Wh/km,185 km,28.0 kWh,"£18,995",Available
+191,Volkswagen ID. Cross 155 kW - 52 kWh,164 Wh/km,315 km,51.7 kWh,"* £34,000",Available
+192,firefly firefly,172 Wh/km,240 km,41.2 kWh,N/A,Available
+193,MG IM5 Long Range,182 Wh/km,530 km,96.5 kWh,"£44,995",Available
+194,BYD SEAL 82.5 kWh RWD Design,172 Wh/km,480 km,82.5 kWh,"£45,730",Available
 195,Audi A6 Avant e-tron performance,165 Wh/km,575 km,94.9 kWh,"£71,740",Available
-196,XPENG G6 AWD Performance,182 Wh/km,440 km,80.0 kWh,"£49,990",Available
+196,Mercedes-Benz CLA 350 4MATIC,148 Wh/km,575 km,85.0 kWh,"£51,800",Available
 197,Audi Q4 e-tron 45,183 Wh/km,420 km,77.0 kWh,"£51,360",Discontinued
-198,Zeekr 7GT Core RWD,168 Wh/km,435 km,73.0 kWh,N/A,Available
-199,Porsche Cayenne Electric,208 Wh/km,520 km,108.0 kWh,"£83,200",Available
+198,Honda Super-N,151 Wh/km,185 km,28.0 kWh,"£18,995",Available
+199,Hyundai IONIQ 5 63 kWh RWD,174 Wh/km,345 km,60.0 kWh,"£39,900",Available
